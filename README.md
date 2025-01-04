@@ -1,2 +1,2 @@
 # Credit-Card
-Detecting of fraud in credit cards
+Credit Card Fraud Detection
